@@ -69,4 +69,4 @@
 💼 Offering **DevOps, Cloud, Mentorship**  
 📧 Let’s chat: [navinkumar@trendintown.com](mailto:navinkumar@trendintown.com)
 
-> *"Join me in shaping the future—where automation meets ambition, and every pipeline paves the way to progress!"*
+> *"Together, let’s engineer the future—automating, innovating, and transforming pipelines into possibilities!"*
