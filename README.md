@@ -6,7 +6,7 @@
 
 <h3 align="center">Corporate IT problem-solver by profession, community knowledge-sharer by passion—turning code into solutions and curiosity into collective growth." </h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/navinku/navinku/blob/main/image.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=navinku&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
