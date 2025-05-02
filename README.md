@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/navinku](https://github.com/navinku)
 - 💬 Ask me about **Databases, DevOps & Cloud DevOps**  
-- 📫 How to reach me **navinkumar.cloud@gmail.com**
+- 📫 How to reach me **navinkumar@trendintown.com**
 
 ---
 
@@ -67,6 +67,6 @@
 ### 👨‍💼 About Me & 🤝 Open to Collaborations
 
 💼 Offering **DevOps, Cloud, Mentorship**  
-📧 Let’s chat: [navinkumar.cloud@gmail.com](mailto:navinkumar.cloud@gmail.com)
+📧 Let’s chat: [navinkumar@trendintown.com](mailto:navinkumar@trendintown.com)
 
 > *"Together, let’s engineer the future—automating, innovating, and transforming pipelines into possibilities!"*
