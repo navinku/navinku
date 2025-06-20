@@ -13,7 +13,7 @@
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/navinku](https://github.com/navinku)
-- 💬 Ask me about **Databases, DevOps & Cloud DevOps**  
+- 💬 Ask me about **Databases, DevOps & Cloud Optimization**  
 - 📫 How to reach me **navinkumar@trendintown.com**
 
 ---
