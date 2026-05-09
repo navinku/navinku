@@ -66,6 +66,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Dev Quote" />
 </p>
 ---
+
 ### 🐍 Watch my contribution graph get eaten!
 
 <picture>
