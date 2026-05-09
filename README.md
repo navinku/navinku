@@ -75,6 +75,7 @@
   <img alt="Snake animation" src="https://raw.githubusercontent.com/navinku/navinku/output/github-contribution-grid-snake.svg" />
 </picture>
 ---
+
 ### 🛠️ DevOps Expertise
 
 ![CI/CD](https://img.shields.io/badge/CI/CD-Expert-brightgreen?style=for-the-badge&logo=githubactions)
