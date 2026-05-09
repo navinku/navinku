@@ -74,3 +74,17 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/navinku/navinku/output/github-contribution-grid-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/navinku/navinku/output/github-contribution-grid-snake.svg" />
 </picture>
+---
+### 🛠️ DevOps Expertise
+
+![CI/CD](https://img.shields.io/badge/CI/CD-Expert-brightgreen?style=for-the-badge&logo=githubactions)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Advanced-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Advanced-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Advanced-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-Intermediate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-Advanced-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-Intermediate-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
