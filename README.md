@@ -57,3 +57,19 @@
 📧 Let’s chat: [me@trendintown.com](mailto:me@trendintown.com)
 
 > *"Together, let’s engineer the future—automating, innovating, and transforming pipelines into possibilities!"*
+>
+---
+
+### 💭 Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Dev Quote" />
+</p>
+---
+### 🐍 Watch my contribution graph get eaten!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/navinku/navinku/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/navinku/navinku/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/navinku/navinku/output/github-contribution-grid-snake.svg" />
+</picture>
