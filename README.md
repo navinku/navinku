@@ -47,10 +47,9 @@
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=navinku&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
----
-
+[![navinku's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=navinku&theme=vue&hide_border=true)](https://github.com/navinku)
+[![Repo1](https://img.shields.io/badge/Repo-deepseek-0e75b6?style=for-the-badge&logo=github)](https://github.com/navinku/deepseek)
+[![Repo2](https://img.shields.io/badge/Repo-tracker--app-0e75b6?style=for-the-badge&logo=github)](https://github.com/navinku/tracker-app)
 ### 👨‍💼 About Me & 🤝 Open to Collaborations
 
 💼 Offering **DevOps, Cloud, Mentorship**  
